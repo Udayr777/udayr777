@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayr777&show_icons=true) -->
 ![](https://komarev.com/ghpvc/?username=Udayr777)
 
@@ -9,7 +7,11 @@
 
 I empower companies by accelerating their production, sales, values, revenues, security, and achievements
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills and Experience: 
+
+⚛ Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Research and Development(R&D).
+📱 Python, TensorFlow, Keras, Scikit-learn, CUDA, MLflow, Roboflow, DagsHub, AWS SageMaker.
+💻 CI/CD Pipelines, Git, GitHub, MLOps, Jira, Bitbucket.
 
 - 🔭 I’m currently working on building the next innovative product. 
 - 🌱 I’m currently learning and advancing on LLMs and Responsible AI. 
@@ -21,10 +23,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-![GitHub metrics](https://metrics.lecoq.io/udayr777)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=udayr777)  
-
 
 
 
