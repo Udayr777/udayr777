@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayr777&show_icons=true)
 
 <!--
 **Udayr777/udayr777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
