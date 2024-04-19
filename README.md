@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayr777&show_icons=true) -->
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Udayr777)
 
 ### Hi there 👋, I'm Uday Ramesh
 #### I'm an ML Engineer by day and a mentor by heart. Sharing code, coffee & career tips!
