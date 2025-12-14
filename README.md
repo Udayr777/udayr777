@@ -2,21 +2,28 @@
 ![](https://komarev.com/ghpvc/?username=Udayr777)
 
 ### Hi there 👋, I'm Uday Ramesh
-#### I'm an ML Engineer by day and a mentor by heart. Sharing code, coffee & career tips!
-![I'm ML Engineer by day, mentor by heart. Sharing code, coffee & career tips!](https://media.licdn.com/dms/image/D5616AQH23S_5GHjtZQ/profile-displaybackgroundimage-shrink_350_1400/0/1712256892341?e=1718841600&v=beta&t=f8hBT8AIUeCHdkH_FIuo_QsSDxHJCbZ2pk9LAO-HAIk)
+#### Software Programmer | Backend & Distributed Systems Engineer
+#### Building scalable, high-performance systems with strong engineering discipline. I'm an ML Engineer by day and a mentor by heart. Sharing code, coffee & career tips!
 
-I empower companies by accelerating their production, sales, values, revenues, security, and achievements
+I specialize in designing and implementing Golang- and Java-based microservices, distributed systems, and cloud-native backend platforms. I enjoy solving hard problems around concurrency, scalability, reliability, and performance, and I take pride in writing clean, testable, production-ready code.
 
 Skills and Experience: 
+* Languages: Golang, Java, Python, SQL
+* Backend & Systems: Microservices, REST, gRPC, Distributed Systems, Event-Driven Architecture
+* Concurrency: Goroutines, Channels, High-throughput backend design
+* Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD, Terraform
+* Databases & Messaging: PostgreSQL, MySQL, DynamoDB, Redis, Kafka, RabbitMQ
+* Engineering Practices: SDLC, Testing, Debugging, Performance Profiling, Code Reviews
 
-⚛ Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Research and Development(R&D).
-📱 Python, TensorFlow, Keras, Scikit-learn, CUDA, MLflow, Roboflow, DagsHub, AWS SageMaker.
-💻 CI/CD Pipelines, Git, GitHub, MLOps, Jira, Bitbucket.
+🚀 What I’m working on
+* Building scalable backend services and distributed systems in production
+* Improving reliability, latency, and developer experience across platforms
 
-- 🔭 I’m currently working on building the next innovative product. 
-- 🌱 I’m currently learning and advancing on LLMs and Responsible AI. 
-- 💬 Ask me about career tips, education, traveling, and personal growth. 
-- ⚡ Fun fact: I'm Lazy but talented. 
+🌱 Currently learning
+* Advanced system design, cloud-native patterns, and platform scalability
+
+💬 Ask me about
+* Backend engineering, Golang, microservices, career growth, and system design
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/udayr777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uday-ramesh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/udayr777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.datascienceportfol.io/udayramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@udayramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/user0051u/)  
