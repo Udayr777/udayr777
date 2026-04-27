@@ -2,28 +2,87 @@
 ![](https://komarev.com/ghpvc/?username=Udayr777)
 
 ### Hi there 👋, I'm Uday Ramesh
-#### Software Programmer | Backend & Distributed Systems Engineer
-#### Building scalable, high-performance systems with strong engineering discipline. I'm an ML Engineer by day and a mentor by heart. Sharing code, coffee & career tips!
 
-I specialize in designing and implementing Golang- and Java-based microservices, distributed systems, and cloud-native backend platforms. I enjoy solving hard problems around concurrency, scalability, reliability, and performance, and I take pride in writing clean, testable, production-ready code.
+#### AI / ML Engineer | Applied AI | ML Systems | Backend (Python, Go)
 
-Skills and Experience: 
-* Languages: Golang, Java, Python, SQL
-* Backend & Systems: Microservices, REST, gRPC, Distributed Systems, Event-Driven Architecture
-* Concurrency: Goroutines, Channels, High-throughput backend design
-* Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, CI/CD, Terraform
-* Databases & Messaging: PostgreSQL, MySQL, DynamoDB, Redis, Kafka, RabbitMQ
-* Engineering Practices: SDLC, Testing, Debugging, Performance Profiling, Code Reviews
+🚀 Building **production-grade AI systems**, scalable data pipelines, and high-performance backend infrastructure.
+☕ Passionate about turning **data into real-world decisions**, not just training models.
 
-🚀 What I’m working on
-* Building scalable backend services and distributed systems in production
-* Improving reliability, latency, and developer experience across platforms
+---
 
-🌱 Currently learning
-* Advanced system design, cloud-native patterns, and platform scalability
+### 💡 About Me
 
-💬 Ask me about
-* Backend engineering, Golang, microservices, career growth, and system design
+I’m an AI/ML Engineer with ~6 years of experience working at the intersection of:
+
+* 🤖 **Applied AI / ML Systems**
+* ⚙️ **Data Pipelines & Real-Time Processing**
+* 🌐 **Distributed Backend Systems (Python, Go)**
+
+Currently working on **AI-assisted financial systems**, focusing on:
+
+* Transaction pattern analysis
+* Anomaly detection
+* Decision-support signals
+* Low-latency data processing
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages:**
+Python, Golang, Java, SQL
+
+**Machine Learning:**
+Anomaly Detection, Feature Engineering, Model Evaluation, Statistical Modeling, Scikit-learn
+
+**ML Systems & Data:**
+Data Pipelines, Feature Pipelines, Batch & Streaming Processing, Model Integration (API-based), Data Preprocessing
+
+**Backend & Systems:**
+REST, gRPC, Microservices, Distributed Systems
+
+**Data & Messaging:**
+Kafka, RabbitMQ, AWS SQS
+
+**Databases:**
+PostgreSQL, MySQL, DynamoDB, Redis
+
+**Cloud & Infra:**
+AWS, Docker, Kubernetes, Terraform
+
+---
+
+### 🚀 What I’m Working On
+
+* Building **AI-powered trading intelligence systems**
+* Developing **data pipelines for real-time ML workflows**
+* Designing **low-latency backend systems for AI integration**
+
+---
+
+### 🌱 Currently Learning
+
+* ML systems design & deployment
+* Scalable data infrastructure
+* Advanced feature engineering for production ML
+
+---
+
+### 💬 Ask Me About
+
+* Applied AI / ML Systems
+* Data pipelines & ML integration
+* Backend engineering (Python, Go)
+* System design & performance optimization
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy building systems where **ML models actually impact real decisions**, not just experiments in notebooks.
+
+---
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/udayr777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uday-ramesh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/udayr777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.datascienceportfol.io/udayramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@udayramesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/user0051u/)  
