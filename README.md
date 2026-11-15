@@ -1,85 +1,81 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayr777&show_icons=true) -->
 ![](https://komarev.com/ghpvc/?username=Udayr777)
 
-### Hi there 👋, I'm Uday Ramesh
+# Hey there! 👋 I'm Uday Ramesh
 
-#### AI / ML Engineer | Applied AI | ML Systems | Backend (Python, Go)
+### 💻 Senior Software Engineer | Golang Developer | Backend & Distributed Systems
 
-🚀 Building **production-grade AI systems**, scalable data pipelines, and high-performance backend infrastructure.
-☕ Passionate about turning **data into real-world decisions**, not just training models.
+🚀 I build **high-performance backend systems, scalable microservices, and cloud-native applications**.
 
----
-
-### 💡 About Me
-
-I’m an AI/ML Engineer with ~6 years of experience working at the intersection of:
-
-* 🤖 **Applied AI / ML Systems**
-* ⚙️ **Data Pipelines & Real-Time Processing**
-* 🌐 **Distributed Backend Systems (Python, Go)**
-
-Currently working on **AI-assisted financial systems**, focusing on:
-
-* Transaction pattern analysis
-* Anomaly detection
-* Decision-support signals
-* Low-latency data processing
+⚡ Passionate about **clean code, system design, distributed computing, and solving complex engineering problems**.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 👨‍💻 About Me
 
-**Languages:**
-Python, Golang, Java, SQL
-
-**Machine Learning:**
-Anomaly Detection, Feature Engineering, Model Evaluation, Statistical Modeling, Scikit-learn
-
-**ML Systems & Data:**
-Data Pipelines, Feature Pipelines, Batch & Streaming Processing, Model Integration (API-based), Data Preprocessing
-
-**Backend & Systems:**
-REST, gRPC, Microservices, Distributed Systems
-
-**Data & Messaging:**
-Kafka, RabbitMQ, AWS SQS
-
-**Databases:**
-PostgreSQL, MySQL, DynamoDB, Redis
-
-**Cloud & Infra:**
-AWS, Docker, Kubernetes, Terraform
+- 💼 Software Engineer experienced in **Golang, Java, Python, and Backend Development**
+- ⚙️ Building **scalable microservices, RESTful APIs, and gRPC services**
+- 🌐 Working with **distributed systems, concurrency, and event-driven architectures**
+- ☁️ Experienced in **AWS, Azure, GCP, Docker, Kubernetes, and DevOps**
+- 🧠 Interested in **AI/ML, high-performance computing, and intelligent backend systems**
+- 🎯 Focused on building **reliable, maintainable, and production-ready software**
 
 ---
 
-### 🚀 What I’m Working On
+### 🛠️ Tech Stack
 
-* Building **AI-powered trading intelligence systems**
-* Developing **data pipelines for real-time ML workflows**
-* Designing **low-latency backend systems for AI integration**
+**💻 Programming Languages**
+
+`Go` `Java` `Python` `C/C++` `SQL` `JavaScript` `TypeScript`
+
+**⚙️ Backend & Architecture**
+
+`Microservices` `REST APIs` `gRPC` `Protocol Buffers` `Distributed Systems` `Concurrency` `Spring Boot` `Gorm` `Hertz`
+
+**🗄️ Databases & Messaging**
+
+`PostgreSQL` `MySQL` `Oracle` `MongoDB` `Redis` `Cassandra` `Kafka` `RabbitMQ`
+
+**☁️ Cloud & DevOps**
+
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `CI/CD`
+
+**📊 Monitoring & Engineering**
+
+`Datadog` `Prometheus` `Grafana` `ELK Stack` `System Design` `Performance Tuning` `Unit Testing`
 
 ---
 
-### 🌱 Currently Learning
+### 🚀 What I'm Building
 
-* ML systems design & deployment
-* Scalable data infrastructure
-* Advanced feature engineering for production ML
-
----
-
-### 💬 Ask Me About
-
-* Applied AI / ML Systems
-* Data pipelines & ML integration
-* Backend engineering (Python, Go)
-* System design & performance optimization
+- ⚡ **High-Performance Go Services** — Concurrent, low-latency backend applications
+- 🌐 **Distributed Microservices** — Scalable REST and gRPC-based architectures
+- ☁️ **Cloud-Native Systems** — Containerized services deployed on Kubernetes
+- 🔄 **Event-Driven Applications** — Reliable asynchronous processing with Kafka
+- 🤖 **AI-Powered Backend Systems** — Integrating machine learning capabilities with production applications
 
 ---
 
-### ⚡ Fun Fact
+### 🌱 Currently Exploring
 
-I enjoy building systems where **ML models actually impact real decisions**, not just experiments in notebooks.
+- 🏗️ Advanced System Design & Distributed Architecture
+- ⚡ Golang Performance Optimization & Concurrency
+- ☁️ Cloud-Native Infrastructure & Kubernetes
+- 🤖 Generative AI, LLMs & AI Agent Engineering
+
+---
+
+### 💬 Let's Talk About
+
+`Golang` · `Java` · `Backend Engineering` · `Microservices` · `Distributed Systems` · `System Design` · `Cloud Computing` · `AI/ML`
+
+---
+
+### ⚡ Beyond the Code
+
+I believe great software engineering is about more than writing code — it's about **designing systems that scale, solving meaningful problems, and continuously learning**.
+
+> *"Build for reliability. Design for scale. Code with purpose."* 🚀
 
 ---
 
