@@ -3,7 +3,7 @@
 
 # Hey there! 👋 I'm Uday Ramesh
 
-### 💻 Senior Software Engineer | Golang Developer | Backend & Distributed Systems
+### 💻 Computer Programmer | Senior Software Engineer | Golang Developer | Backend & Distributed Systems
 
 🚀 I build **high-performance backend systems, scalable microservices, and cloud-native applications**.
 
